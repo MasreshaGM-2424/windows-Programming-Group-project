@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{70A3A7BC-EA2C-4609-9539-2810CF09D6D1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="methodoveride/Program.cs">
+    <Files>
+      <File FileName="methodoveride/Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="methodoveride" expanded="True">
+            <Node name="methodoveride">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.methodoveride PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
